@@ -50,8 +50,8 @@ printf("\n");
 printf("\n");
 
 //Vender træet. Skriver n i starten, find lige et fiks.
-for(i=0; i<=n; i++){
-    printf("%d", j);
+for(i=0; i<n; i++){
+    printf("%d", i);
 
 for(m=n; m>i; --m){
     printf(" ");
@@ -64,3 +64,4 @@ printf("\n");
 printf("\n");
 return 0;
 }
+
