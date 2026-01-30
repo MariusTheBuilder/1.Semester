@@ -4,6 +4,7 @@
 int main(void){
 int time_exists = 1;
 int Test;
+int Test2;
 
 if (time_exists)
 {
