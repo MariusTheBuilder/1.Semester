@@ -3,7 +3,7 @@
 
 int main(void){
 int time_exists = 1;
-
+int Test;
 
 if (time_exists)
 {
