@@ -1,11 +1,13 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main(void){
-int time_exists = 1;
+int time_exists;
+int test;
 
 if (time_exists)
 {
-printf("Hammer time!");
+printf("Hammer time!\n");
 }
 else
 {
